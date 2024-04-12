@@ -1,0 +1,16 @@
+{
+    "name": "roma/namespace",
+    "autoload": {
+        "psr-4": {
+            "Bola\\": "extends/",
+            "Cilindro\\": "implements/"
+        }
+    },
+    "authors": [
+        {
+            "name": "victor roma",
+            "email": "victor25roma@gmail.com"
+        }
+    ],
+    "require": {}
+}
